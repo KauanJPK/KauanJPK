@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sou um programador e desenvolvedor Back-End, tenho como<br>principal foco em Python, Django, JavaScript e Java.<br>Tenho traçado uma longa jornada de aprendizado, por meio<br>de cursos onlines e aprendizado próprio e geral.
+Sou um programador e desenvolvedor Back-End, tenho como<br>principal foco em Python, Django, JavaScript, Java e Kotlin.<br>Tenho traçado uma longa jornada de aprendizado, por meio<br>de cursos onlines e aprendizado próprio e geral.
 
 
 # 💻 Tech Stack:
